@@ -1,10 +1,10 @@
-/*
+/*****************************************************************************
 
 my-grep.c
 
 Tekijä: Tuomas Ikonen, 0461309
 Käytetyt lähteet: -Kasurinen, Jussi & Nikula, Uolevi, 2013, C-kieli ja käytännön ohjelmointi
-*/
+*****************************************************************************/
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -63,3 +63,5 @@ void avaaJaEtsi(char* nimi, char* sana) {
 	}
 	fclose(tiedosto);
 }
+/*****************************************************************************/
+/* eof */
