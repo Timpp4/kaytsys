@@ -1,10 +1,10 @@
-/*
+/*****************************************************************************
 
 my-cat.c
 
 Tekijä: Tuomas Ikonen, 0461309
 Käytetyt lähteet: -Kasurinen, Jussi & Nikula, Uolevi, 2013, C-kieli ja käytännön ohjelmointi./my
-*/
+*****************************************************************************/
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -47,3 +47,5 @@ void avaaJaTulostaTiedosto(char* nimi) {
 	}
 	fclose(tiedosto);
 }
+/*****************************************************************************/
+/* eof */
