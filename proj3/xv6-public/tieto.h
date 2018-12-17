@@ -1,0 +1,2 @@
+/* Määritellään maaraRead */
+int maaraRead;
