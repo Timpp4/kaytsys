@@ -2,7 +2,7 @@
 
 my-grep.c
 
-Tekijä: Tuomas Ikonen, 0461309
+Tekijä: Tuomas Ikonen
 Käytetyt lähteet: -Kasurinen, Jussi & Nikula, Uolevi, 2013, C-kieli ja käytännön ohjelmointi
 *****************************************************************************/
 
