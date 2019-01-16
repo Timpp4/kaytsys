@@ -2,7 +2,7 @@
 
 wish.c
 
-Tekijä: Tuomas Ikonen, 0461309
+Tekijä: Tuomas Ikonen
 Käytetyt lähteet: -Kasurinen, Jussi & Nikula, Uolevi, 2013, C-kieli ja käytännön ohjelmointi
 		  -https://github.com/brenns10/lsh/tree/407938170e8b40d231781576e05282a41634848c
 		  -http://pages.cs.wisc.edu/~remzi/OSTEP/cpu-api.pdf
